@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@theme {
+  --color-brown-50: #F9F7F3;
+  --color-brown-100: #F0E8D9;
+  --color-brown-200: #E1D3B8;
+  --color-brown-300: #D2BE97;
+  --color-brown-400: #C3A976;
+  --color-brown-500: #B49455;
+  --color-brown-600: #9A7A42;
+  --color-brown-700: #80612F;
+  --color-brown-800: #66481C;
+  --color-brown-900: #4C3109;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
