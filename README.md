@@ -1,16 +1,90 @@
-# React + Vite
+# 🚀 React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my **personal developer portfolio website** built using **React.js and Tailwind CSS**.  
+It showcases my projects, skills, and experience as a web developer.
 
-Currently, two official plugins are available:
+🌐 **Live Website:**  
+https://lucent-macaron-b71849.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+# 📌 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Modern and responsive UI
+- Built with **React.js**
+- Styled using **Tailwind CSS**
+- Project showcase section
+- Skills section
+- Contact section
+- Fully responsive design
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🛠️ Tech Stack
+
+- React.js
+- Tailwind CSS
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Netlify (Deployment)
+
+---
+
+# 📂 Project Structure
+
+
+portfolio
+│
+├── public
+├── src
+│ ├── components
+│ ├── assets
+│ ├── pages
+│ └── App.jsx
+│
+├── package.json
+└── README.md
+
+---
+
+# ⚡ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/portfolio.git
+cd portfolio
+npm install
+npm run dev
+```
+
+🎯 Purpose
+
+The purpose of this project is to:
+
+Showcase my web development projects
+Demonstrate my React and frontend skills
+Create a professional online portfolio
+Practice modern frontend development
+📬 Contact
+
+If you want to collaborate or discuss opportunities, feel free to connect.
+
+Portfolio: https://lucent-macaron-b71849.netlify.app/
+GitHub: https://github.com/your-username
+LinkedIn: Add your LinkedIn link
+
+
+---
+
+अगर चाहो तो मैं तुम्हें **:contentReference[oaicite:2]{index=2}** जिसमें होंगे:
+
+- 🔥 portfolio screenshot  
+- 🏆 tech badges (React, Tailwind, Netlify)  
+- 📊 GitHub stats  
+- 👨‍💻 animated header  
+
+जो **recruiters को GitHub repo खोलते ही impress करेगा**.
+::contentReference[oaicite:1]{index=1}
