@@ -73,7 +73,7 @@ Practice modern frontend development
 If you want to collaborate or discuss opportunities, feel free to connect.
 
 Portfolio: https://lucent-macaron-b71849.netlify.app/
-GitHub: https://github.com/your-username
+GitHub: https://github.com/your-09singh
 LinkedIn: Add your LinkedIn link
 
 
