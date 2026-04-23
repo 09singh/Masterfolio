@@ -77,14 +77,4 @@ GitHub: https://github.com/your-09singh
 LinkedIn: Add your LinkedIn link
 
 
----
 
-अगर चाहो तो मैं तुम्हें **:contentReference[oaicite:2]{index=2}** जिसमें होंगे:
-
-- 🔥 portfolio screenshot  
-- 🏆 tech badges (React, Tailwind, Netlify)  
-- 📊 GitHub stats  
-- 👨‍💻 animated header  
-
-जो **recruiters को GitHub repo खोलते ही impress करेगा**.
-::contentReference[oaicite:1]{index=1}
