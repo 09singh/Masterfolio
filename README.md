@@ -34,7 +34,7 @@ https://lucent-macaron-b71849.netlify.app/
 
 # 📂 Project Structure
 
-
+```bash
 portfolio
 │
 ├── public
@@ -46,7 +46,7 @@ portfolio
 │
 ├── package.json
 └── README.md
-
+```
 ---
 
 # ⚡ Installation
