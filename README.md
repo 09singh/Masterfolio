@@ -21,7 +21,6 @@ https://lucent-macaron-b71849.netlify.app/
 ---
 
 # 🛠️ Tech Stack
-mnjhgg
 - React.js
 - Tailwind CSS
 - JavaScript
